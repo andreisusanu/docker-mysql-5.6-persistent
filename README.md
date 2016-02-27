@@ -1,3 +1,5 @@
+[![](https://badge.imagelayers.io/andreisusanu/mysql-5.6-persistent:latest.svg)](https://imagelayers.io/?images=andreisusanu/mysql-5.6-persistent:latest)
+
 mysql-5.6-persistent
 =============
 
